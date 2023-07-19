@@ -8,5 +8,5 @@ A repository of assignment solutions and feedback for the postgradute course COM
 
 ### Assignment 1: Predicting Bike Rentals
 --> Marks: 198/200\
---> [Problem and Solution](...)\
---> [Feedback](...)
+--> [Problem and Solution](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%201%20-%20Predicting%20Bike%20Rental%20Data/Assignment-1.ipynb)\
+--> [Feedback](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%201%20-%20Predicting%20Bike%20Rental%20Data/Feedback-Assignment-1.pdf)
