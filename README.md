@@ -1,4 +1,4 @@
-# COMP-SCI-7317-Using-Machine-Learning-Tools
+# COMP SCI 7317 - Using Machine Learning Tools
 
 A repository of assignment solutions and feedback for the postgradute course COMP SCI 7317 - Using Machine Learning Tools at the University of Adelaide
 
