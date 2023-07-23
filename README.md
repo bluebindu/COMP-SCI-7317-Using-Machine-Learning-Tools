@@ -14,5 +14,5 @@ A repository of assignment solutions and feedback for the postgradute course COM
 
 ### Assignment 2: Breast Cancer Classification
 --> Marks: TBD\
---> [Problem and Solution]([...](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%202%20-%20Breast%20Cancer%20Classification/Assignment-2.ipynb)https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%202%20-%20Breast%20Cancer%20Classification/Assignment-2.ipynb)\
+--> [Problem and Solution](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%202%20-%20Breast%20Cancer%20Classification/Assignment-2.ipynb)\
 --> Feedback (TBD)
