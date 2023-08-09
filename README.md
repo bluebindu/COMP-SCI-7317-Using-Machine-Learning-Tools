@@ -13,6 +13,6 @@ A repository of assignment solutions and feedback for the postgradute course COM
 --> [Feedback](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%201%20-%20Predicting%20Bike%20Rental%20Data/Feedback-Assignment-1.pdf)
 
 ### Assignment 2: Breast Cancer Classification
---> Marks: TBD\
+--> Marks: 29/30\
 --> [Problem and Solution](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%202%20-%20Breast%20Cancer%20Classification/Assignment-2.ipynb)\
---> Feedback (TBD)
+--> [Feedback](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%202%20-%20Breast%20Cancer%20Classification/Feedback-Assignment-2.pdf)
