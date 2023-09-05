@@ -16,3 +16,8 @@ A repository of assignment solutions and feedback for the postgradute course COM
 --> Marks: 29/30\
 --> [Problem and Solution](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%202%20-%20Breast%20Cancer%20Classification/Assignment-2.ipynb)\
 --> [Feedback](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%202%20-%20Breast%20Cancer%20Classification/Feedback-Assignment-2.pdf)
+
+### Assignment 3: Sign Language (CNNs/DNNs)
+--> Marks: 35/35\
+--> [Problem and Solution](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%203%20-%20Sign%20Language/Assignment3SignLanguage.ipynb)\
+--> [Feedback](https://github.com/bluebindu/COMP-SCI-7317-Using-Machine-Learning-Tools/blob/main/Assignment%203%20-%20Sign%20Language/Assignment-3-Feedback.png)
